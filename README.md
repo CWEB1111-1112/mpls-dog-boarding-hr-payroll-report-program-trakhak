@@ -1,4 +1,4 @@
-#  Humboldt Home Sales Agent Performance Calculator
+#  MPLS Dog Boarding HR Payroll Report Program
 
 The MPLS Dogboarding academy wants to incorporate functionality that allows the HR payroll department to generate a report that breakdown payroll by department.  At the conclusion of the program, the program will generate a report that list the total salary payout for each department.
 
@@ -34,4 +34,4 @@ Please submit a zipped folder containing your c# console application and the URL
 
 
 
-Invitaton URL: 
+Invitaton URL: https://classroom.github.com/a/9BpO6WPT
