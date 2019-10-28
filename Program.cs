@@ -1,7 +1,7 @@
 ﻿using System;
 /**
-Name: 
-Date of completion:
+Name: Khali
+Date of completion: 10/27/2019
 
 Please be sure to comment your code - provide a comment for each structure use in 
 program.
