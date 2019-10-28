@@ -1,0 +1,8 @@
+C:\Users\trakhak\Desktop\mpls-dog-boarding-hr-payroll-report-program-trakhak\bin\Debug\netcoreapp1.1\assignment_three.deps.json
+C:\Users\trakhak\Desktop\mpls-dog-boarding-hr-payroll-report-program-trakhak\bin\Debug\netcoreapp1.1\assignment_three.runtimeconfig.json
+C:\Users\trakhak\Desktop\mpls-dog-boarding-hr-payroll-report-program-trakhak\bin\Debug\netcoreapp1.1\assignment_three.runtimeconfig.dev.json
+C:\Users\trakhak\Desktop\mpls-dog-boarding-hr-payroll-report-program-trakhak\obj\Debug\netcoreapp1.1\assignment_three.AssemblyInfo.cs
+C:\Users\trakhak\Desktop\mpls-dog-boarding-hr-payroll-report-program-trakhak\bin\Debug\netcoreapp1.1\assignment_three.dll
+C:\Users\trakhak\Desktop\mpls-dog-boarding-hr-payroll-report-program-trakhak\bin\Debug\netcoreapp1.1\assignment_three.pdb
+C:\Users\trakhak\Desktop\mpls-dog-boarding-hr-payroll-report-program-trakhak\obj\Debug\netcoreapp1.1\assignment_three.dll
+C:\Users\trakhak\Desktop\mpls-dog-boarding-hr-payroll-report-program-trakhak\obj\Debug\netcoreapp1.1\assignment_three.pdb
